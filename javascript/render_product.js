@@ -22,7 +22,7 @@ function renderProducts(products, containerId) {
 
 
 async function getProducts() {
-  const res = await fetch('../data/product.json');
+  const res = await fetch('./data/product.json');
   return await res.json();
 }
 

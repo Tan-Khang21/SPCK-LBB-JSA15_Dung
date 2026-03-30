@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "image": "../img/banner-news/1.jpg",
+        "image": "./img/banner-news/1.jpg",
         "title": "Những mẫu hoa đơn giản mang lại cảm giác thư giãn cho gia đình và nơi làm việc"
     },
     {
         "id": 2,
-        "image": "../img/banner-news/2.jpg",
+        "image": "./img/banner-news/2.jpg",
         "title": "Xu hướng cắm hoa nhẹ nhàng được nhiều gia đình và văn phòng quan tâm"
     },
     {
         "id": 3,
-        "image": "../img/banner-news/3.jpg",
+        "image": "./img/banner-news/3.jpg",
         "title": "Lựa chọn hoa phù hợp góp phần tạo điểm nhấn nhẹ nhàng cho không gian sinh hoạt"
     }
 ]

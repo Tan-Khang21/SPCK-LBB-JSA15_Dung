@@ -16,7 +16,7 @@ function renderNews(News, containerId) {
 }
 
 async function getNews() {
-  const res = await fetch('../data/new.json');
+  const res = await fetch('./data/new.json');
   return await res.json();
 }
 
