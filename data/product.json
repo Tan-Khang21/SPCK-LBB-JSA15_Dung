@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Hoa Hồng",
+    "price": 600000,
+    "image": "../img/banner-area/product/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Hoa Hồng Cam",
+    "price": 650000,
+    "image": "../img/banner-area/product/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Hoa Tulip Tím",
+    "price": 800000,
+    "image": "../img/banner-area/product/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Hoa Hồng Đỏ",
+    "price": 650000,
+    "image": "../img/banner-area/product/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Hoa Tualip",
+    "price": 700000,
+    "image": "../img/banner-area/product/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Hoa Lan Hương",
+    "price": 750000,
+    "image": "../img/banner-area/product/6.png"
+  },
+  {
+    "id": 7,
+    "name": "Hoa Ly",
+    "price": 800000,
+    "image": "../img/banner-area/product/7.png"
+  },
+  {
+    "id": 8,
+    "name": "Hoa Lan ý",
+    "price": 650000,
+    "image": "../img/banner-area/product/8.png"
+  }
+]

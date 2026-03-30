@@ -1,0 +1,176 @@
+body{
+    background-color: #fbeff1;
+}
+.login{
+    width: 375px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 100px auto;
+}
+.login-logo{
+    width: 100%;
+    background-color: white ;
+    padding: 20px 0px;
+}
+.login-img{
+    width: 130px;
+    height: 30px;
+    margin: auto;
+}
+.login-img img{
+    width: 100%;
+    height: 100%;
+}
+.login-title{
+    background-color: #e55473;
+    text-align: center;
+    padding: 20px 0px;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+.title-login , .title-content{
+    width: 295px;
+    margin: 0 auto;
+    color: white;
+    font-size: 20px;
+}
+.title-login{
+    font-weight: bold;
+}
+.button-login{
+    width: 172px;
+    height: 36px;
+}
+.login-main{
+    background-color: white;
+    padding: 20px 0;
+    border-bottom: 3px solid black;
+}
+form{
+    width: 295px;
+    margin: 0 auto;
+}
+.button-login{
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.password-register{
+    margin-left: 5px;
+}
+.main-register{
+    width: 150px;
+    margin: 20px auto 10px auto;
+    font-weight: bold;
+}
+.email, .password{
+    width: 295px;
+    height: 43px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.option-title{
+    text-align: center;
+    padding-top: 20px;
+}
+.network-option{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 25px;
+}
+
+
+
+
+
+.register{
+    width: 375px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 100px auto;
+}
+.register-logo{
+    width: 100%;
+    background-color: white ;
+    padding: 20px 0px;
+}
+.register-img{
+    width: 130px;
+    height: 30px;
+    margin: auto;
+}
+.register-img img{
+    width: 100%;
+    height: 100%;
+}
+.register-title{
+    background-color: #e55473;
+    text-align: center;
+    padding: 20px 0px;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+.title-register , .title-content{
+    width: 295px;
+    margin: 0 auto;
+    color: white;
+    font-size: 20px;
+}
+.title-register{
+    font-weight: bold;
+}
+.button-register{
+    width: 172px;
+    height: 36px;
+}
+.register-main{
+    background-color: white;
+    padding: 20px 0;
+    border-bottom: 3px solid black;
+}
+form{
+    width: 295px;
+    margin: 0 auto;
+}
+.button-register{
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.button-register{
+    margin-left: 5px;
+}
+.main-register{
+    width: 150px;
+    margin: 20px auto 10px auto;
+    font-weight: bold;
+}
+.email, .password, .fullname{
+    width: 295px;
+    height: 43px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+/* .option-title{
+    display: flex;
+    justify-content: center;
+}
+.login-option{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+} */
