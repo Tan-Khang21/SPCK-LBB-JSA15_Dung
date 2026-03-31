@@ -1,6 +1,6 @@
 // if already logged in, redirect to home page
 // if (localStorage.getItem("currentUser")) {
-//   location.href = "./html/index.html";
+//   location.href = ".index.html";
 // }
 
 let form = document.querySelector("form");
@@ -27,7 +27,7 @@ console.log(existingUser) //und...
     if (existingUser) {
       localStorage.setItem("currentUser", JSON.stringify(existingUser));
 
-      location.href = "./html/index.html";
+      location.href = ".index.html";
     } else {
       alert("Email hoặc mật khẩu không chính xác");
     }
